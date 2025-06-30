@@ -1,0 +1,210 @@
+x1: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances
+x1 init: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances.
+
+The
+x2: Encryption secures sensitive digital communication by converting readable data into unreadable ciphertext
+Initial s1_raw s2 overlap = 0.322429895401001
+Initial s1_init s2 overlap = 0.3364485800266266
+Iteration 1 loss = 0.725729763507843
+Iteration 1 best overlap ratio = 0.4065420627593994
+Iteration 1 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances.InflThe
+--------------------
+Iteration 2 loss = 0.7400273084640503
+Iteration 2 best overlap ratio = 0.420560747385025
+Iteration 2 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances.Infl uniqueness
+--------------------
+Iteration 3 loss = 0.7430257797241211
+Iteration 3 best overlap ratio = 0.4392523467540741
+Iteration 3 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances.rico uniqueness
+--------------------
+Iteration 4 loss = 0.7502486705780029
+Iteration 4 best overlap ratio = 0.4392523467540741
+Iteration 4 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances.rico uniqueness
+--------------------
+Iteration 5 loss = 0.7409530878067017
+Iteration 5 best overlap ratio = 0.44392523169517517
+Iteration 5 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances+#+#rico SqlConnection
+--------------------
+Iteration 6 loss = 0.7421581745147705
+Iteration 6 best overlap ratio = 0.44392523169517517
+Iteration 6 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances+#+#rico SqlConnection
+--------------------
+Iteration 7 loss = 0.7445764541625977
+Iteration 7 best overlap ratio = 0.4532710313796997
+Iteration 7 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifyrico SqlConnection
+--------------------
+Iteration 8 loss = 0.7374333143234253
+Iteration 8 best overlap ratio = 0.4532710313796997
+Iteration 8 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifyrico SqlConnection
+--------------------
+Iteration 9 loss = 0.7461960911750793
+Iteration 9 best overlap ratio = 0.4532710313796997
+Iteration 9 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifyrico SqlConnection
+--------------------
+Iteration 10 loss = 0.7537776827812195
+Iteration 10 best overlap ratio = 0.4532710313796997
+Iteration 10 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifyrico SqlConnection
+--------------------
+Iteration 11 loss = 0.7584192752838135
+Iteration 11 best overlap ratio = 0.4532710313796997
+Iteration 11 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifyrico SqlConnection
+--------------------
+Iteration 12 loss = 0.7493751645088196
+Iteration 12 best overlap ratio = 0.4579439163208008
+Iteration 12 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 13 loss = 0.7486394643783569
+Iteration 13 best overlap ratio = 0.4579439163208008
+Iteration 13 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 14 loss = 0.7372957468032837
+Iteration 14 best overlap ratio = 0.4579439163208008
+Iteration 14 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 15 loss = 0.7461960911750793
+Iteration 15 best overlap ratio = 0.4579439163208008
+Iteration 15 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 16 loss = 0.759558379650116
+Iteration 16 best overlap ratio = 0.4579439163208008
+Iteration 16 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 17 loss = 0.7683093547821045
+Iteration 17 best overlap ratio = 0.4579439163208008
+Iteration 17 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 18 loss = 0.7596645355224609
+Iteration 18 best overlap ratio = 0.4579439163208008
+Iteration 18 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 19 loss = 0.7446905970573425
+Iteration 19 best overlap ratio = 0.4579439163208008
+Iteration 19 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 20 loss = 0.7499021291732788
+Iteration 20 best overlap ratio = 0.4579439163208008
+Iteration 20 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 21 loss = 0.756747841835022
+Iteration 21 best overlap ratio = 0.4579439163208008
+Iteration 21 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 22 loss = 0.7579759359359741
+Iteration 22 best overlap ratio = 0.4579439163208008
+Iteration 22 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 23 loss = 0.756896436214447
+Iteration 23 best overlap ratio = 0.4579439163208008
+Iteration 23 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 24 loss = 0.7606678605079651
+Iteration 24 best overlap ratio = 0.4579439163208008
+Iteration 24 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 25 loss = 0.7562904357910156
+Iteration 25 best overlap ratio = 0.4579439163208008
+Iteration 25 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 26 loss = 0.7532886266708374
+Iteration 26 best overlap ratio = 0.4579439163208008
+Iteration 26 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 27 loss = 0.7675548791885376
+Iteration 27 best overlap ratio = 0.4579439163208008
+Iteration 27 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances clarifytag SqlConnection
+--------------------
+Iteration 28 loss = 0.769579291343689
+Iteration 28 best overlap ratio = 0.4719626307487488
+Iteration 28 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances Copyright engineering implementations
+--------------------
+Iteration 29 loss = 0.7530539631843567
+Iteration 29 best overlap ratio = 0.4859813153743744
+Iteration 29 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesTcl engineering implementations
+--------------------
+Iteration 30 loss = 0.8059976100921631
+Iteration 30 best overlap ratio = 0.5560747385025024
+Iteration 30 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesTclsecure implementations
+--------------------
+Iteration 31 loss = 0.818192720413208
+Iteration 31 best overlap ratio = 0.5794392228126526
+Iteration 31 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesTclSecure implementations
+--------------------
+Iteration 32 loss = 0.8248448371887207
+Iteration 32 best overlap ratio = 0.5794392228126526
+Iteration 32 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesTclSecure implementations
+--------------------
+Iteration 33 loss = 0.806889533996582
+Iteration 33 best overlap ratio = 0.5794392228126526
+Iteration 33 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesTclSecure implementations
+--------------------
+Iteration 34 loss = 0.8211088180541992
+Iteration 34 best overlap ratio = 0.5794392228126526
+Iteration 34 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesTclSecure implementations
+--------------------
+Iteration 35 loss = 0.8226765990257263
+Iteration 35 best overlap ratio = 0.5794392228126526
+Iteration 35 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesTclSecure implementations
+--------------------
+Iteration 36 loss = 0.8218302726745605
+Iteration 36 best overlap ratio = 0.5794392228126526
+Iteration 36 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesTclSecure implementations
+--------------------
+Iteration 37 loss = 0.8120192289352417
+Iteration 37 best overlap ratio = 0.5794392228126526
+Iteration 37 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesTclSecure implementations
+--------------------
+Iteration 38 loss = 0.8173165321350098
+Iteration 38 best overlap ratio = 0.5794392228126526
+Iteration 38 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesTclSecure implementations
+--------------------
+Iteration 39 loss = 0.8214160799980164
+Iteration 39 best overlap ratio = 0.5794392228126526
+Iteration 39 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesTclSecure implementations
+--------------------
+Iteration 40 loss = 0.8517732620239258
+Iteration 40 best overlap ratio = 0.6028037667274475
+Iteration 40 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances encryptionSecure implementations
+--------------------
+Iteration 41 loss = 0.8489168286323547
+Iteration 41 best overlap ratio = 0.6028037667274475
+Iteration 41 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances encryptionSecure implementations
+--------------------
+Iteration 42 loss = 0.8630169630050659
+Iteration 42 best overlap ratio = 0.6028037667274475
+Iteration 42 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances encryptionSecure implementations
+--------------------
+Iteration 43 loss = 0.8350995779037476
+Iteration 43 best overlap ratio = 0.6028037667274475
+Iteration 43 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances encryptionSecure implementations
+--------------------
+Iteration 44 loss = 0.8410317897796631
+Iteration 44 best overlap ratio = 0.6028037667274475
+Iteration 44 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances encryptionSecure implementations
+--------------------
+Iteration 45 loss = 0.8492274284362793
+Iteration 45 best overlap ratio = 0.6028037667274475
+Iteration 45 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances encryptionSecure implementations
+--------------------
+Iteration 46 loss = 0.8549189567565918
+Iteration 46 best overlap ratio = 0.6074766516685486
+Iteration 46 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances Sie Encrypt implementations
+--------------------
+Iteration 47 loss = 0.8470274209976196
+Iteration 47 best overlap ratio = 0.6074766516685486
+Iteration 47 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performances Sie Encrypt implementations
+--------------------
+Iteration 48 loss = 0.8697185516357422
+Iteration 48 best overlap ratio = 0.6214953064918518
+Iteration 48 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesANSI Encrypt implementations
+--------------------
+Iteration 49 loss = 0.863114595413208
+Iteration 49 best overlap ratio = 0.6214953064918518
+Iteration 49 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesANSI Encrypt implementations
+--------------------
+Iteration 50 loss = 0.8800435662269592
+Iteration 50 best overlap ratio = 0.6401869058609009
+Iteration 50 input text: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesHacker Encryption implementations
+--------------------
+Final loss = 0.8800435662269592
+Final overlap = 0.6401869058609009
+Final x1: The film explores love and trauma through non-linear storytelling, blending magical realism with emotionally raw performancesHacker Encryption implementations
