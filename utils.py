@@ -16,8 +16,8 @@ from huggingface_hub import hf_hub_download, login
 import transformers
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
-BASE_DIR = "/home/anwoy/phuhoang/sae_robustness/rep/sae_models/" # for load sae model
-CACHE_DIR = "/home/anwoy/phuhoang/sae_robustness/rep/models/" # for load model
+BASE_DIR = "/home/anwoy/phuhoang/sae_robustness/SAE_robustness_rep/sae_models/" # for load sae model
+CACHE_DIR = "/home/anwoy/phuhoang/sae_robustness/SAE_robustness_rep/models/" # for load model
 DEVICE = "cuda:0" if torch.cuda.is_available() else "cpu"
 
 def count_common(x, y):
@@ -82,7 +82,7 @@ def load_model_and_sae(model_type, layer_num, device=DEVICE):
         raise NotImplementedError("Gemma2-9b is not implemented yet.") # use code bove
     elif model_type == "gemma2-2b":
         tokenizer = AutoTokenizer.from_pretrained("google/gemma-2-2b", cache_dir=CACHE_DIR)
-        model = AutoModelForCausalLM.from_pretrained("google/gemma-2-2b", cache_dir=CACHE_DIR).to(DEVICE)
+        model = AutoModelForCausalLM.from_pretrained("google/gemma-2-2b", cache_dir=CACHE_DIR).to(device)
         assert layer_num == 20
         path_to_params = hf_hub_download(
             repo_id="google/gemma-scope-2b-pt-res",
