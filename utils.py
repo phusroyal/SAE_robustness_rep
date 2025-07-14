@@ -91,7 +91,7 @@ def load_model_and_sae(model_type, layer_num, device=DEVICE):
             cache_dir = os.path.join(BASE_DIR, "gemma2-2b-sae", "layer_20", "width_65k", "average_l0_221")
         )
         params = np.load(path_to_params)
-        sae = {k: torch.from_numpy(v).cuda() for k, v in params.items()}
+        sae = {k: torch.from_numpy(v).to(device) for k, v in params.items()}
 
     else:
         raise ValueError(f"Unsupported model_type: {model_type}")
